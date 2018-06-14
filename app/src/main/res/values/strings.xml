@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wheelstreet</string>
+
+    <string name="ok">Okay</string>
+
+    <string name="facebook_app_id">236267256926169</string>
+    <string name="fb_login_protocol_scheme">fb236267256926169</string>
+</resources>
